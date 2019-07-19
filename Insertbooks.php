@@ -8,11 +8,11 @@
  <br>
  <?php
  include("dbconnection.php");
- $isbn=$_POST["isbn"];
- $title=$_POST["title"];
- $author=$_POST["author"];
- $edition=$_POST["edition"];
- $publication=$_POST["publication"];
+// $isbn=$_POST["isbn"];
+ //$title=$_POST["title"];
+ //$author=$_POST["author"];
+ //$edition=$_POST["edition"];
+ //$publication=$_POST["publication"];
  ?>
  </body>
 </html>
