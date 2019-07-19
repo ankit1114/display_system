@@ -1,6 +1,6 @@
 # online_library_management_system
-# EnterBooks admin
-#search books admin and student both
+# EnterBooks details you want
+#search books 
 #display books 
 #insert books
 #db connection 
