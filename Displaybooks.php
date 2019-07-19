@@ -5,8 +5,10 @@
 </head>
 <body bgcolor="0000FF">
 	<center><h2>Online Library Management System</h2></center><br>
+	<?php
+	include("dbconnection.php");
+	
 
-
-
+?>
 </body>
 </html>

@@ -10,8 +10,9 @@
  include("dbconnection.php");
  $isbn=$_POST["isbn"];
  $title=$_POST["title"];
- $edition=$_POST["edition"];
  $author=$_POST["author"];
+ $edition=$_POST["edition"];
  $publication=$_POST["publication"];
+ ?>
  </body>
 </html>
